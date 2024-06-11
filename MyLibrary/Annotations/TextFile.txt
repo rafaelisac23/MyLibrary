@@ -24,5 +24,5 @@ dotnet tool install --global dotnet-ef
 
 a pasta e a classe MyLibraryContext Criada tem a funcionalidade de fazer a ligação com o banco de dados
 
-
+- aqui nós adcionamos no appsettings.json as credenciais necessarias para a conexão com nosso banco de dados
 
