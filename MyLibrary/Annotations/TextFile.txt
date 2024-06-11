@@ -1,0 +1,22 @@
+﻿// Para esse prjeto foi adcionado os seguintes packages
+
+1*
+
+- Pomelo.EntityFrameworkCore.MySql
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.AspNetCore.OpenApi
+
+foi atualizada a ferramenta entity.framework para a versão 8.0.6
+
+-caso precise atualizar :
+
+-dotnet tool update --global dotnet-ef
+
+ou instalar :
+
+dotnet tool install --global dotnet-ef
+
+*ela e importante pois e ela que realiza os migrations ,ou seja as alterações e criações no banco de dados*
+
+----------------------------------------------------------------------------------------------------------------------------------
+
