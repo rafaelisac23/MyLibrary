@@ -26,3 +26,19 @@ a pasta e a classe MyLibraryContext Criada tem a funcionalidade de fazer a liga�
 
 - aqui nós adcionamos no appsettings.json as credenciais necessarias para a conexão com nosso banco de dados
 
+
+------------------------------------------------------------------------------------------
+
+3*
+
+para aplicar o migrations voce entra na pasta do seu projeto pelo prompt de comando
+
+"tools -> command line -> cd "nome do projeto"
+
+depois "dotnet ef migrations add "nomedamigration" "
+
+para remover "dotnet ef migrations add "nomedamigrationdesejadopararemover" "
+
+depois que voce arrumou os seus migrations ou quer adcionar mais para editar ou tanto faz
+voce roda o comando "dotnet ef database update " para poder criar ou editar o banco de dados
+
