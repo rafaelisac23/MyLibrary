@@ -42,3 +42,21 @@ para remover "dotnet ef migrations add "nomedamigrationdesejadopararemover" "
 depois que voce arrumou os seus migrations ou quer adcionar mais para editar ou tanto faz
 voce roda o comando "dotnet ef database update " para poder criar ou editar o banco de dados
 
+
+----------------------------------------------------------------------------------------------------------------------------
+
+4* 
+edite a vontade os seus dados mas não esqueça de dar sempre um comando de adcionar uma migration no banco de dados e depois um update
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
